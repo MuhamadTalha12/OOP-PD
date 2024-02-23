@@ -1,0 +1,14 @@
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb

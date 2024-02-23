@@ -1,0 +1,14 @@
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.exe.config
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.pdb
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.csproj.AssemblyReference.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.csproj.CoreCompileInputs.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.pdb
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.exe.config
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.exe
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.pdb
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.exe
+C:\Users\PMLS\Desktop\PDWEEK4\PDWEEK4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.pdb
